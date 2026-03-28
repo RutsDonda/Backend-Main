@@ -100,7 +100,7 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mihir1816/Backend.git
+    git clone https://github.com/RutsDonda/Backend.git
     ```
 
 2. **Navigate to the project directory:**
